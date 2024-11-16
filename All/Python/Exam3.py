@@ -1,0 +1,2 @@
+import Exam 
+Exam.b()
