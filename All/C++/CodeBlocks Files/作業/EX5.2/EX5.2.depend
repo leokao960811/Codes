@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1731572367 source:d:\programmed files\c++\codeblocks files\ex5.2\main.cpp
+	"mygraph.h"
+	"mymath.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1731570767 d:\programmed files\c++\codeblocks files\ex5.2\show.h
+
+1731572001 source:d:\programmed files\c++\codeblocks files\ex5.2\mygraph.cpp
+	<stdio.h>
+
+1731571196 source:d:\programmed files\c++\codeblocks files\ex5.2\show.cpp
+	<stdio.h>
+
+1731570538 d:\programmed files\c++\codeblocks files\ex5.2\mygraph.h
+
+1731570530 d:\programmed files\c++\codeblocks files\ex5.2\mymath.h
+
+1731572378 source:d:\programmed files\c++\codeblocks files\ex5.2\mymath.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
