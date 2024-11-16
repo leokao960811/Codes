@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1731752902 source:d:\coding\programmed\c++\codeblocks files\buckshot\project buckshot\load.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1731752901 source:d:\coding\programmed\c++\codeblocks files\buckshot\project buckshot\results.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
