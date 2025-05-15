@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1740974411 source:d:\programmed files\c++\codeblocks files\作業\ex8.1-1\main.cpp
+	<stdio.h>
+	"student.h"
+	"stulist.h"
+
+1740974321 d:\programmed files\c++\codeblocks files\作業\ex8.1-1\student.h
+
+1740974447 d:\programmed files\c++\codeblocks files\作業\ex8.1-1\stulist.h
+	"student.h"
+
+1740974417 source:d:\programmed files\c++\codeblocks files\作業\ex8.1-1\student.cpp
+	<stdio.h>
+	"student.h"
+
+1740974446 source:d:\programmed files\c++\codeblocks files\作業\ex8.1-1\stulist.cpp
+	<stdio.h>
+	"stulist.h"
+

@@ -1,0 +1,201 @@
+# depslib dependency file v1.0
+1743384430 source:d:\programmed files\c++\codeblocks files\project bejeweled\destruction.cpp
+	<stdio.h>
+	"Structs.h"
+	"destruction.h"
+
+1742349206 d:\programmed files\c++\codeblocks files\project bejeweled\structs.h
+
+1743384438 d:\programmed files\c++\codeblocks files\project bejeweled\destruction.h
+	"Structs.h"
+
+1742352716 source:d:\programmed files\c++\codeblocks files\project bejeweled\specialgems.cpp
+	<stdio.h>
+	"Structs.h"
+	"specialgems.h"
+
+1742348632 d:\programmed files\c++\codeblocks files\project bejeweled\specialgems.h
+	"Structs.h"
+
+1743384176 source:d:\programmed files\c++\codeblocks files\project bejeweled\detection.cpp
+	<stdio.h>
+	<ctype.h>
+	"Structs.h"
+	"board.h"
+	"detection.h"
+	"specialgems.h"
+
+1744956162 d:\programmed files\c++\codeblocks files\project bejeweled\board.h
+	"Structs.h"
+
+1743384177 d:\programmed files\c++\codeblocks files\project bejeweled\detection.h
+	"Structs.h"
+
+1744955351 source:d:\programmed files\c++\codeblocks files\project bejeweled\board.cpp
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<windows.h>
+	"Structs.h"
+	"detection.h"
+	"destruction.h"
+	"specialgems.h"
+	"board.h"
+
+1746406612 source:d:\programmed files\c++\codeblocks files\project bejeweled\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<assert.h>
+	<windows.h>
+	<ctype.h>
+	"Structs.h"
+	"board.h"
+	"specialgems.h"
+	"detection.h"
+	"destruction.h"
+	"gamemodes.h"
+
+1742349345 source:d:\coding\programmed\c++\codeblocks files\project bejeweled\board.cpp
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<windows.h>
+	"Structs.h"
+	"destruction.h"
+	"specialgems.h"
+	"board.h"
+
+1742349206 d:\coding\programmed\c++\codeblocks files\project bejeweled\structs.h
+
+1742349029 d:\coding\programmed\c++\codeblocks files\project bejeweled\destruction.h
+	"Structs.h"
+
+1742348632 d:\coding\programmed\c++\codeblocks files\project bejeweled\specialgems.h
+	"Structs.h"
+
+1742377034 d:\coding\programmed\c++\codeblocks files\project bejeweled\board.h
+	"Structs.h"
+
+1742348577 source:d:\coding\programmed\c++\codeblocks files\project bejeweled\destruction.cpp
+	<stdio.h>
+	"Structs.h"
+	"destruction.h"
+
+1742349336 source:d:\coding\programmed\c++\codeblocks files\project bejeweled\detection.cpp
+	<stdio.h>
+	<ctype.h>
+	"Structs.h"
+	"board.h"
+	"detection.h"
+	"specialgems.h"
+
+1742348792 d:\coding\programmed\c++\codeblocks files\project bejeweled\detection.h
+	"Structs.h"
+
+1742377050 source:d:\coding\programmed\c++\codeblocks files\project bejeweled\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<assert.h>
+	<windows.h>
+	<ctype.h>
+	"Structs.h"
+	"board.h"
+	"specialgems.h"
+	"detection.h"
+	"destruction.h"
+
+1742352716 source:d:\coding\programmed\c++\codeblocks files\project bejeweled\specialgems.cpp
+	<stdio.h>
+	"Structs.h"
+	"specialgems.h"
+
+1742377066 source:d:\project bejeweled\board.cpp
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<windows.h>
+	"Structs.h"
+	"detection.h"
+	"destruction.h"
+	"specialgems.h"
+	"board.h"
+
+1742349206 d:\project bejeweled\structs.h
+
+1742348792 d:\project bejeweled\detection.h
+	"Structs.h"
+
+1742349029 d:\project bejeweled\destruction.h
+	"Structs.h"
+
+1742348632 d:\project bejeweled\specialgems.h
+	"Structs.h"
+
+1742377034 d:\project bejeweled\board.h
+	"Structs.h"
+
+1742348577 source:d:\project bejeweled\destruction.cpp
+	<stdio.h>
+	"Structs.h"
+	"destruction.h"
+
+1742349336 source:d:\project bejeweled\detection.cpp
+	<stdio.h>
+	<ctype.h>
+	"Structs.h"
+	"board.h"
+	"detection.h"
+	"specialgems.h"
+
+1742377050 source:d:\project bejeweled\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<assert.h>
+	<windows.h>
+	<ctype.h>
+	"Structs.h"
+	"board.h"
+	"specialgems.h"
+	"detection.h"
+	"destruction.h"
+
+1742352716 source:d:\project bejeweled\specialgems.cpp
+	<stdio.h>
+	"Structs.h"
+	"specialgems.h"
+
+1744955726 d:\programmed files\c++\codeblocks files\project bejeweled\gamemodes.h
+	"Structs.h"
+
+1746406955 source:d:\programmed files\c++\codeblocks files\project bejeweled\gamemodes.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<assert.h>
+	<windows.h>
+	<ctype.h>
+	"Structs.h"
+	"board.h"
+	"specialgems.h"
+	"detection.h"
+	"destruction.h"
+	"poker.h"
+
+1744955994 source:d:\programmed files\c++\codeblocks files\project bejeweled\poker.cpp
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<ctype.h>
+	"Structs.h"
+	"detection.h"
+	"destruction.h"
+	"specialgems.h"
+	"board.h"
+	"poker.h"
+
+1744956001 d:\programmed files\c++\codeblocks files\project bejeweled\poker.h
+	"Structs.h"
+

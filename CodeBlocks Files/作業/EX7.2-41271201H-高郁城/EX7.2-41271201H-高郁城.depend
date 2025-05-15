@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1732785514 source:d:\programmed files\c++\codeblocks files\ex7.2-41271201h-高郁城\main.cpp
+	<stdio.h>
+	"numeric.h"
+
+1732785482 d:\programmed files\c++\codeblocks files\ex7.2-41271201h-高郁城\numeric.h
+
+1732840404 source:d:\programmed files\c++\codeblocks files\作業\ex7.2-41271201h-高郁城\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"numeric.h"
+
+1732839771 d:\programmed files\c++\codeblocks files\作業\ex7.2-41271201h-高郁城\numeric.h
+
+1733099032 source:d:\programmed files\c++\codeblocks files\作業\ex7.2-41271201h-高郁城\numeric.cpp
+	<stdio.h>
+

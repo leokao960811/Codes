@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1745199250 source:d:\programmed files\c++\codeblocks files\程設2考試\mid-41271201h\program.cpp
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"program.h"
+
+1744601276 d:\programmed files\c++\codeblocks files\程設2考試\mid-41271201h\program.h
+
+1744598773 source:d:\programmed files\c++\codeblocks files\程設2考試\mid-41271201h\student.cpp
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	"student.h"
+
+1744599250 d:\programmed files\c++\codeblocks files\程設2考試\mid-41271201h\student.h
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1733444679 source:d:\programmed files\c++\codeblocks files\作業\ex6.1-41271201h-高郁城\main.cpp
+	<stdio.h>
+	"mychar.h"
+
+1733384996 d:\programmed files\c++\codeblocks files\作業\ex6.1-41271201h-高郁城\mychar.h
+
+1733388178 source:d:\programmed files\c++\codeblocks files\作業\ex6.1-41271201h-高郁城\mychar.cpp
+	<stdio.h>
+

@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1741067596 source:d:\programmed files\c++\codeblocks files\作業\ex8.3-41271201h-高郁城\database.cpp
+	<stdio.h>
+	<string.h>
+	"player.h"
+	"database.h"
+
+1741067662 source:d:\programmed files\c++\codeblocks files\作業\ex8.3-41271201h-高郁城\main.cpp
+	<stdio.h>
+	<string.h>
+	"player.h"
+	"database.h"
+
+1741060971 d:\programmed files\c++\codeblocks files\作業\ex8.3-41271201h-高郁城\player.h
+
+1741064410 d:\programmed files\c++\codeblocks files\作業\ex8.3-41271201h-高郁城\database.h
+	"player.h"
+
+1741065116 source:d:\programmed files\c++\codeblocks files\作業\ex8.3-41271201h-高郁城\player.cpp
+	<stdio.h>
+	"player.h"
+

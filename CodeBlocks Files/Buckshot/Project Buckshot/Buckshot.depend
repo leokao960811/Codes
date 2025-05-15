@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1731752902 source:d:\coding\programmed\c++\codeblocks files\buckshot\project buckshot\load.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1731752901 source:d:\coding\programmed\c++\codeblocks files\buckshot\project buckshot\results.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1732171283 source:d:\programmed files\c++\codeblocks files\buckshot\project buckshot\buckshottest.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Load.h"
+	"Results.h"
+
+1731755694 d:\programmed files\c++\codeblocks files\buckshot\project buckshot\load.h
+
+1732171524 d:\programmed files\c++\codeblocks files\buckshot\project buckshot\results.h
+
+1731755694 source:d:\programmed files\c++\codeblocks files\buckshot\project buckshot\load.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1732689516 source:d:\programmed files\c++\codeblocks files\buckshot\project buckshot\results.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1733275078 source:d:\programmed files\c++\codeblocks files\buckshot\project buckshot\buckshot.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Load.h"
+	"Results.h"
+	"State.h"
+
+1733275093 source:d:\programmed files\c++\codeblocks files\buckshot\project buckshot\turn.cpp
+	<stdio.h>
+
+1731755694 source:d:\programmed files\c++\codeblocks files\buckshot\project buckshot\load.h
+
+1732171524 source:d:\programmed files\c++\codeblocks files\buckshot\project buckshot\results.h
+
+1733273772 source:d:\programmed files\c++\codeblocks files\buckshot\project buckshot\turn.h
+
+1733273772 d:\programmed files\c++\codeblocks files\buckshot\project buckshot\turn.h
+
+1733274942 source:d:\programmed files\c++\codeblocks files\buckshot\project buckshot\state.cpp
+	<stdio.h>
+
+1733274988 d:\programmed files\c++\codeblocks files\buckshot\project buckshot\state.h
+

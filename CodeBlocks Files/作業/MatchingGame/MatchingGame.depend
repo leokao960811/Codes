@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1746411792 source:d:\programmed files\c++\codeblocks files\matchinggame\card.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Card.h"
+
+1746418250 source:d:\programmed files\c++\codeblocks files\matchinggame\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Card.h"
+	"GameBoard.h"
+
+1746411797 d:\programmed files\c++\codeblocks files\matchinggame\card.h
+
+1746417065 d:\programmed files\c++\codeblocks files\matchinggame\gameboard.h
+
+1746418346 source:d:\programmed files\c++\codeblocks files\matchinggame\gameboard.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	<new>
+	"Card.h"
+	"GameBoard.h"
+
+1746411792 source:d:\programmed files\c++\codeblocks files\作業\matchinggame\card.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Card.h"
+
+1746411797 d:\programmed files\c++\codeblocks files\作業\matchinggame\card.h
+
+1747016826 source:d:\programmed files\c++\codeblocks files\作業\matchinggame\gameboard.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	<new>
+	"Card.h"
+	"GameBoard.h"
+
+1747015036 d:\programmed files\c++\codeblocks files\作業\matchinggame\gameboard.h
+
+1747016664 source:d:\programmed files\c++\codeblocks files\作業\matchinggame\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	"Card.h"
+	"GameBoard.h"
+
