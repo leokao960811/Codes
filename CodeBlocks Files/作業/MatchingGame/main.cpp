@@ -34,24 +34,40 @@ int main()
 
         printf("Input 2 positions of cards:\n");
         scanf("%d %d %d %d",&pos1.r, &pos1.c, &pos2.r, &pos2.c);
-
         system("cls");
 
-        FlipUp(GetCard(&board, pos1));
-        FlipUp(GetCard(&board, pos2));
-        Print(&board);
-        Sleep(500);
-
-        if(isMatched(*GetCard(&board, pos1), *GetCard(&board, pos2)))
+        if((pos1.r==pos2.r) && (pos1.c==pos2.c))
         {
-            RemoveCard(&board,GetCard(&board, pos1));
-            RemoveCard(&board,GetCard(&board, pos2));
+            Print(&board);
+            printf("Same Location.\n");
+
         }
+
+        else if((pos1.r>board.rownum-1) || (pos2.r>board.rownum-1) || (pos1.c>board.colnum-1) || (pos2.c>board.colnum-1))
+        {
+            Print(&board);
+            printf("Out of range.\n");
+
+        }
+
         else
         {
-            FlipDown(GetCard(&board, pos1));
-            FlipDown(GetCard(&board, pos2));
+            FlipUp(GetCard(&board, pos1));
+            FlipUp(GetCard(&board, pos2));
+            Print(&board);
             Sleep(500);
+
+            if(isMatched(*GetCard(&board, pos1), *GetCard(&board, pos2)))
+            {
+                RemoveCard(&board,GetCard(&board, pos1));
+                RemoveCard(&board,GetCard(&board, pos2));
+            }
+            else
+            {
+                FlipDown(GetCard(&board, pos1));
+                FlipDown(GetCard(&board, pos2));
+                Sleep(500);
+            }
         }
         system("cls");
     }

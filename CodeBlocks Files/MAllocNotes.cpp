@@ -13,14 +13,14 @@ int main()
         printf("How many integers?...> ");
         scanf("%d",&size);
 
+        int *data = (int*) malloc(sizeof(int)*size);
         //malloc returns void* type!
 
-        //(int*) is to change to the data type you wish to read
+        //Change (int*) to the data type you wish to read
         //The size here refers to bytes!
 
         //The allocated data should be manually freed.
 
-        int *data = (int*) malloc(sizeof(int)*size);
 
         if (data==nullptr) return 0;
 
@@ -36,6 +36,7 @@ int main()
 
         //This is where the memory should be deallocated.
         //A good practice is to set the pointer to null, since the pointer's value can't be changed through free().
+
         free(data);
         data = nullptr;
 

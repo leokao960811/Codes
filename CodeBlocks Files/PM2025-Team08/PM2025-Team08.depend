@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1747730151 source:d:\programmed files\c++\codeblocks files\pm2025-team08\place.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<cctype>
+	"place.h"
+	"princess.h"
+
+1747730111 d:\programmed files\c++\codeblocks files\pm2025-team08\place.h
+	"princess.h"
+
+1747622857 d:\programmed files\c++\codeblocks files\pm2025-team08\princess.h
+
+1747626910 source:d:\programmed files\c++\codeblocks files\pm2025-team08\princess.cpp
+	"princess.h"
+	<string.h>
+	<fstream>
+	<iostream>
+	<iomanip>
+
+1747707180 source:d:\programmed files\c++\codeblocks files\pm2025-team08\titlerule.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<ctype.h>
+	"titlerule.h"
+	"princess.h"
+	"place.h"
+
+1747706127 d:\programmed files\c++\codeblocks files\pm2025-team08\titlerule.h
+	"princess.h"
+
+1747730020 source:d:\programmed files\c++\codeblocks files\pm2025-team08\main.cpp
+	<stdio.h>
+	<windows.h>
+	<string.h>
+	"princess.h"
+	"place.h"
+	"titlerule.h"
+

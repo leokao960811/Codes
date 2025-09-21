@@ -1,0 +1,28 @@
+BeautySalon +1000
+   Intelligence -5
+   Charm +8
+#
+Library +200
+   Intelligence +10
+   Elegance +10
+   Charm -2
+#
+PetForest +800
+   Magic +10
+#
+MagicCollege -300
+   Magic +20
+   Intelligence +10
+#
+NTNU -1000
+   Intelligence +10
+   Charm +10
+   Elegance +10
+   Magic +10
+#
+HAHA 1000
+   Intelligence +10
+   Charm +10
+   Elegance +10
+   Magic +10
+#

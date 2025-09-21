@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1748835340 source:d:\programmed files\c++\codeblocks files\程設2考試\final-41271201h\event.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<new>
+	"event.h"
+
+1748828409 d:\programmed files\c++\codeblocks files\程設2考試\final-41271201h\event.h
+
+1748845199 source:d:\programmed files\c++\codeblocks files\程設2考試\final-41271201h\inventory.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<new>
+	"inventory.h"
+
+1748828421 d:\programmed files\c++\codeblocks files\程設2考試\final-41271201h\inventory.h
+
+1748845271 source:d:\programmed files\c++\codeblocks files\程設2考試\final-41271201h\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<new>
+	"inventory.h"
+	"event.h"
+

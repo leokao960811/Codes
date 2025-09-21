@@ -1,0 +1,22 @@
+Queen:
+   Intelligence > 69
+   Elegance > 69
+   Charm > 69
+#
+Scientist:
+   Intelligence > 99
+#
+Magician: 
+   Magic > 149
+   Magic > Charm
+   Magic > Elegance
+   Magic > Intelligence
+#
+Teacher:
+   Intelligence > 99
+   Elegance > 99
+#
+Model:
+   Elegance > 59
+   Charm > 99
+#
